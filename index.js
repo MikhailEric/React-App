@@ -1,6 +1,9 @@
 const dots = () => {
     return (
-        <Navbar /> 
+        <div>
+            <Navbar />
+            <Header />
+        </div> 
     )
 }
 
